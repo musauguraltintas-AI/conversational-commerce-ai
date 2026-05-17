@@ -1,9 +1,4 @@
 {
-  "name": "musa-portfolio",
-  "version": "1.0.0",
-  "description": "AI Commerce & UX Research Leader Portfolio",
-  "private": true,
-  "scripts": {
-    "dev": "echo 'Static site'"
-  }
+  "buildCommand": "echo 'Static HTML site'",
+  "outputDirectory": "."
 }
